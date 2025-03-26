@@ -1,4 +1,4 @@
-# Advanced Object Masking with SAM 2 - SAM-2 Repository
+# Advanced Object Masking with SAM 2 
 
 
 
