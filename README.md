@@ -8,7 +8,7 @@ This repository demonstrates the use of **Segment Anything Model 2 (SAM 2)** for
 
 ## 🚀 Features
 
-- **High-Quality Object Masking**: Uses SAM 2’s powerful model to generate object masks with precision.
+- **High-Quality Object Masking**: Uses SAM 2’s powerful model to generate object masks with precision
 - **Multi-Prompt Support**: Accepts **points, bounding boxes, and previous masks** as inputs.
 - **CUDA Acceleration**: Optimized for GPU to enhance performance.
 - **Batched Processing**: Supports multi-object and multi-image inference.
