@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This repository demonstrates the use of **Segment Anything Model 2 O SAM 2** for advanced image segmentation by predicting object masks using various input prompts such as points and bounding boxes. SAM 2 efficiently generates high-quality masks by first converting the image into an embedding and then predicting the masks based on user-defined prompts.
+This repository demonstrates the use of **Segment Anything Model 2 (SAM 2)** for advanced image segmentation by predicting object masks using various input prompts such as points and bounding boxes. SAM 2 efficiently generates high-quality masks by first converting the image into an embedding and then predicting the masks based on user-defined prompts.
 
 ## 🚀 Features
 
